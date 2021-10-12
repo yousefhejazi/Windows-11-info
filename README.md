@@ -1,18 +1,66 @@
-# Windows-11-info
-Windows 11 Vm Code.
+Developed by [Jalal Hejazi](https://github.com/Jalalhejazi) and [Yousef Hejazi](https://github.com/yousefhejazi)
+
+
+## How to install Windows 11 with only "ONE LINE OF CODE"
 
 
 
-This code is used to create a Virtual machine via bash/powershell that has windows 11 on it.
+- Automation with Azure Cloud Shell
+- Automation using (PowerShell and bash)
+- Install Windows Virtual Machine on Azure
+- Install Windows 11 Pro Operating System
+- Install Package Managers 
+  - windows package manager (choco)
+  - powershell package manager (scoop)
+  - python package manager (pip)
+  - node package manager (npm)
+- Install Many Developer Tools used for automations
 
+<br>
+<br>
+<br>
+<br>
+
+
+
+## 1) Azure Cloud Shell --> bash --> New Lab VM (Windows 11 PRO)
+- https://shell.azure.com/bash/
+
+```bash
 curl https://raw.githubusercontent.com/SuperUsersDK/automation/main/Setup/create-windows11-vm.sh| bash
+```
 
 
 
+<br>
+<br>
+<br>
+<hr>
 
 
-This code is used after you have installed windows 11 on your Virtual machine, what it does, is that it downloads every dev program you need for programming. Fx
-Scoop, pip, visual studio code and many more dev tools.
 
+## 2) VM Connect --> PowerShell --> Setup Developer Tools 
+
+- https://portal.azure.com
+
+user=sysadmin
+pwd=Lab@dmin1234
+
+- start powershell ad admin
+
+```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force;
 Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/SuperUsersDK/automation/master/Setup/setup-az-204.ps1'))
+```
+
+
+
+## Must Change The VM password after The "Big Bang Installation"
+
+
+
+Happy automation ⚡
+
+
+<br>
+<br>
