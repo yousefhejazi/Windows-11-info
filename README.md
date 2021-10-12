@@ -27,10 +27,11 @@ curl https://raw.githubusercontent.com/SuperUsersDK/automation/main/Setup/create
 
 - https://portal.azure.com
 
+```bash
 user=sysadmin
 pwd=Lab@dmin1234
+```
 
-- start powershell ad admin
 
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force;
