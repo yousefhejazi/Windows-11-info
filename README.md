@@ -40,17 +40,18 @@ Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw
 
 
 
-## Must Change The VM password after The "Big Bang Installation"
+# Watch on Youtube 
 
 
+
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=lKL8PHv1bM0"><img src="https://img.youtube.com/vi/lKL8PHv1bM0/0.jpg" alt="Watch"></a>
+</div>
+
+
+
+<br>
 
 Happy automation ⚡
-
-
-<br>
-<br>
-
-
-[![Watch Youtube Video how to do]()](https://www.youtube.com/embed/lKL8PHv1bM0)
-
 
