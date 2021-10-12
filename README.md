@@ -2,22 +2,6 @@ Developed by [Jalal Hejazi](https://github.com/Jalalhejazi) and [Yousef Hejazi](
 
 
 ## How to install Windows 11 with only "ONE LINE OF CODE"
-
-
-
-- Automation with Azure Cloud Shell
-- Automation using (PowerShell and bash)
-- Install Windows Virtual Machine on Azure
-- Install Windows 11 Pro Operating System
-- Install Package Managers 
-  - windows package manager (choco)
-  - powershell package manager (scoop)
-  - python package manager (pip)
-  - node package manager (npm)
-- Install Many Developer Tools used for automations
-
-<br>
-<br>
 <br>
 <br>
 
