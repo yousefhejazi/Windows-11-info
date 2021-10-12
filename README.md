@@ -40,7 +40,7 @@ Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw
 
 
 
-# Watch on Youtube 
+# Watch me on Youtube 
 
 
 
