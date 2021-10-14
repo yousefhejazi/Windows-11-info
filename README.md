@@ -11,7 +11,7 @@ Developed by [Jalal Hejazi](https://github.com/Jalalhejazi) and [Yousef Hejazi](
 - https://shell.azure.com/bash/
 
 ```bash
-curl https://raw.githubusercontent.com/SuperUsersDK/automation/main/Setup/create-windows11-vm.sh| bash
+curl https://raw.githubusercontent.com/yousefhejazi/Windows-11-info/main/setup-win11-vm.sh | bash
 ```
 
 
