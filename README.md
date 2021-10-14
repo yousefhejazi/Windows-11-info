@@ -46,9 +46,9 @@ Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw
 
 
 <div align="center">
-  <a href="https://youtu.be/WanyxZKhefc"><img src="https://youtu.be/WanyxZKhefc" alt="watch"></a>
+  <a href="https://youtu.be/WanyxZKhefc"><img src="<iframe width="560" height="315" src="https://www.youtube.com/embed/WanyxZKhefc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" alt="watch"></a>
 </div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WanyxZKhefc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 <br>
