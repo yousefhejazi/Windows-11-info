@@ -46,7 +46,7 @@ Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw
 
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=lKL8PHv1bM0"><img src="https://img.youtube.com/vi/lKL8PHv1bM0/0.jpg" alt="Watch"></a>
+  <a href="https://www.youtube.com/watch?v=WanyxZKhefc&t=4s"><img src="https://img.youtube.com/vi/lKL8PHv1bM0/0.jpg" alt="Watch"></a>
 </div>
 
 
