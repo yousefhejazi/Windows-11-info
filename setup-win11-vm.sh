@@ -17,7 +17,7 @@ vmname=labvm-$rnd
 user=sysadmin
 
 # The password length must be between 12 and 123. Password must have the 3 of the following: 1 lower case character, 1 upper case character, 1 number and 1 special character.
-pwd=Lab@dmin1234
+pwd=Covid-19-isbadvirus
 
 # Windows 11 
 vmimage="MicrosoftWindowsDesktop:windows11preview:win11-21h2-pro:22000.194.2109250206"
