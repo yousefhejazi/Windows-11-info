@@ -29,7 +29,7 @@ curl https://raw.githubusercontent.com/yousefhejazi/Windows-11-info/main/setup-w
 
 ```bash
 user=sysadmin
-pwd=Lab@dmin1234
+
 ```
 
 
